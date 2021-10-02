@@ -1,0 +1,22 @@
+{
+  "name": "css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adetayo1999/Tailwind-CSS.git"
+  },
+  "author": "Tomiwa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Adetayo1999/Tailwind-CSS/issues"
+  },
+  "homepage": "https://github.com/Adetayo1999/Tailwind-CSS#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.16"
+  }
+}
